@@ -1,0 +1,11 @@
+/build/
+/dist/
+/.vs/
+*.user
+/evidence/*.bmp
+/evidence/*.png
+/evidence/*.log
+*.md
+*.markdown
+/docs/
+/documentacao-local/
