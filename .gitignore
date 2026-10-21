@@ -9,3 +9,4 @@
 *.markdown
 /docs/
 /documentacao-local/
+!/COMO-RODAR.md
